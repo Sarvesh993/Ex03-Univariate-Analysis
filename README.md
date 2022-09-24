@@ -60,16 +60,16 @@ sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
 
 output:
-![output]("ds31.png")
-![output]("ds32.png")
-![output]("ds33.png")
-![output]("ds34.png")
-![output]("ds35.png")
-![output]("ds36.png")
-![output]("ds37.png")
-![output]("ds38.png")
-![output]("ds39.png")
-![output]("ds310.png")
+![output](ds31.png)
+![output](ds32.png)
+![output](ds33.png)
+![output](ds34.png)
+![output](ds35.png)
+![output](ds36.png)
+![output](ds37.png)
+![output](ds38.png)
+![output](ds39.png)
+![output](ds310.png)
 
 Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
